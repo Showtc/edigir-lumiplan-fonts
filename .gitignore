@@ -1,0 +1,9 @@
+_scripts/
+_exports/
+_export*/
+_extra/
+
+*.zip
+*.af
+*.af~lock~
+*.pdf

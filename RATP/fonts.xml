@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FontsModule softwareVersion="2.05h" moduleVersion="2" nodesCount="95">
+	<fonts>
+		<font name="0" productName="0" height="8" width="3" letterSpace="1" SpaceColsCount="1" charset="0" fixed="1" fontRef="0" fileName="fonts\0_0.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ÇüéâäàåçêëèïîìÄÅÉæÆôöòûùÿÖÜø£Ø×ƒáíóúñÑªº¿®¬½¼¡«»</letters>
+		</font>
+		<font name="1" productName="1" height="8" width="4" letterSpace="1" SpaceColsCount="2" charset="0" fixed="1" fontRef="1" fileName="fonts\1_1.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ÇüéâäàåçêëèïîìÄÅÉæÆôöòûùÿÖÜø£Ø×ƒáíóúñÑªº¿®¬½¼¡«»</letters>
+		</font>
+		<font name="2" productName="2" height="8" width="5" letterSpace="1" SpaceColsCount="3" charset="0" fixed="1" fontRef="2" fileName="fonts\2_2.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ÇüéâäàåçêëèïîìÄÅÉæÆôöòûùÿÖÜø£Ø×ƒáíóúñÑªº¿®¬½¼¡«»</letters>
+		</font>
+		<font name="3" productName="3" height="8" width="7" letterSpace="1" SpaceColsCount="3" charset="0" fixed="1" fontRef="3" fileName="fonts\3_3.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ÇüéâäàåçêëèïîìÄÅÉæÆôöòûùÿÖÜø£Ø×ƒáíóúñÑªº¿®¬½¼¡«»</letters>
+		</font>
+		<font name="4" productName="4" height="8" width="6" letterSpace="1" SpaceColsCount="3" charset="0" fixed="0" fontRef="4" fileName="fonts\4_4.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ÇüéâäàåçêëèïîìÄÅÉæÆôöòûùÿÖÜø£Ø×ƒáíóúñÑªº¿®¬½¼¡«»</letters>
+		</font>
+		<font name="6" productName="6" height="10" width="7" letterSpace="1" SpaceColsCount="2" charset="0" fixed="1" fontRef="5" fileName="fonts\6_5.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ÇüéâäàåçêëèïîìÄÅÉæÆôöòûùÿÖÜø£Ø×ƒáíóúñÑªº¿®¬½¼¡«»</letters>
+		</font>
+		<font name="7" productName="7" height="10" width="8" letterSpace="1" SpaceColsCount="2" charset="0" fixed="1" fontRef="23" fileName="fonts\7_23.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ÇüéâäàåçêëèïîìÄÅÉæÆôöòûùÿÖÜø£Ø×ƒáíóúñÑªº¿®¬½¼¡«»</letters>
+		</font>
+		<font name="9" productName="9" height="16" width="5" letterSpace="1" SpaceColsCount="1" charset="0" fixed="1" fontRef="6" fileName="fonts\9_6.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ÇüéâäàåçêëèïîìÄÅÉæÆôöòûùÿÖÜø£Ø×ƒáíóúñÑªº¿®¬½¼¡«»</letters>
+		</font>
+		<font name="A" productName="A" height="16" width="7" letterSpace="1" SpaceColsCount="3" charset="0" fixed="1" fontRef="7" fileName="fonts\A_7.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ÇüéâäàåçêëèïîìÄÅÉæÆôöòûùÿÖÜø£Ø×ƒáíóúñÑªº¿®¬½¼¡«»</letters>
+		</font>
+		<font name="B" productName="B" height="16" width="12" letterSpace="1" SpaceColsCount="3" charset="0" fixed="1" fontRef="8" fileName="fonts\B_8.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ÇüéâäàåçêëèïîìÄÅÉæÆôöòûùÿÖÜø£Ø×ƒáíóúñÑªº¿®¬½¼¡«»</letters>
+		</font>
+		<font name="C" productName="C" height="19" width="10" letterSpace="1" SpaceColsCount="2" charset="0" fixed="1" fontRef="9" fileName="fonts\C_9.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ÇüéâäàåçêëèïîìÄÅÉæÆôöòûùÿÖÜø£Ø×ƒáíóúñÑªº¿®¬½¼¡«»</letters>
+		</font>
+		<font name="I-Logos" productName="I" height="24" width="12" letterSpace="2" SpaceColsCount="4" charset="0" fixed="0" fontRef="10" fileName="fonts\I_10.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ÇüéâäàåçêëèïîìÄÅÉæÆôöòûùÿÖÜø£Ø×ƒáíóúñÑªº¿®¬½¼¡«»</letters>
+		</font>
+		<font name="I-PMR16" productName="I" height="24" width="12" letterSpace="2" SpaceColsCount="4" charset="0" fixed="0" fontRef="21" fileName="fonts\I_21.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ÇüéâäàåçêëèïîìÄÅÉæÆôöòûùÿÖÜø£Ø×ƒáíóúñÑªº¿®¬½¼¡«»</letters>
+		</font>
+		<font name="G" productName="G" height="24" width="12" letterSpace="2" SpaceColsCount="4" charset="0" fixed="1" fontRef="11" fileName="fonts\G_11.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ÇüéâäàåçêëèïîìÄÅÉæÆôöòûùÿÖÜø£Ø×ƒáíóúñÑªº¿®¬½¼¡«»</letters>
+		</font>
+		<font name="H" productName="H" height="24" width="14" letterSpace="2" SpaceColsCount="4" charset="0" fixed="1" fontRef="12" fileName="fonts\H_12.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ÇüéâäàåçêëèïîìÄÅÉæÆôöòûùÿÖÜø£Ø×ƒáíóúñÑªº¿®¬½¼¡«»</letters>
+		</font>
+		<font name="5" productName="5" height="8" width="6" letterSpace="0" SpaceColsCount="3" charset="0" fixed="0" linkedFontRef="4" fontRef="13"/>
+		<font name="E-Logos" productName="E" height="19" width="12" letterSpace="1" SpaceColsCount="3" charset="0" fixed="0" linkedFontRef="10" fontRef="14"/>
+		<font name="F-Logos" productName="F" height="19" width="12" letterSpace="0" SpaceColsCount="3" charset="0" fixed="0" linkedFontRef="10" fontRef="15"/>
+		<font name="J-Logos" productName="J" height="24" width="12" letterSpace="0" SpaceColsCount="4" charset="0" fixed="0" linkedFontRef="10" fontRef="16"/>
+		<font name="E-PMR16" productName="E" height="19" width="12" letterSpace="1" SpaceColsCount="3" charset="0" fixed="0" linkedFontRef="21" fontRef="22"/>
+		<font name="F-PMR16" productName="F" height="19" width="12" letterSpace="0" SpaceColsCount="3" charset="0" fixed="0" linkedFontRef="21" fontRef="23"/>
+		<font name="J-PMR16" productName="J" height="24" width="12" letterSpace="0" SpaceColsCount="4" charset="0" fixed="0" linkedFontRef="21" fontRef="24"/>
+		<font name="Q" productName="Q" height="8" width="7" letterSpace="0" SpaceColsCount="3" charset="1" fixed="1" fontRef="19" fileName="fonts\Q_19.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ÇüéâäàåçêëèïîìÄÅÉæÆôöòûùÿÖÜø£Ø×ƒáíóúñÑªº¿®¬½¼¡«»</letters>
+		</font>
+		<font name="S" productName="S" height="16" width="12" letterSpace="0" SpaceColsCount="3" charset="1" fixed="1" fontRef="20" fileName="fonts\S_20.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ÇüéâäàåçêëèïîìÄÅÉæÆôöòûùÿÖÜø£Ø×ƒáíóúñÑªº¿®¬½¼¡«»</letters>
+		</font>
+		<font name="U" productName="U" height="8" width="7" letterSpace="1" SpaceColsCount="3" charset="2" fixed="1" fontRef="17" fileName="fonts\U_17.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ÇüéâäàåçêëèïîìÄÅÉæÆôöòûùÿÖÜø£Ø×ƒáíóúñÑªº¿®¬½¼¡«»</letters>
+		</font>
+		<font name="W" productName="W" height="16" width="12" letterSpace="1" SpaceColsCount="3" charset="2" fixed="1" fontRef="18" fileName="fonts\W_18.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ÇüéâäàåçêëèïîìÄÅÉæÆôöòûùÿÖÜø£Ø×ƒáíóúñÑªº¿®¬½¼¡«»</letters>
+		</font>
+		<font name="K" productName="K" height="16" width="8" letterSpace="1" SpaceColsCount="3" charset="0" fixed="1" fontRef="21" fileName="fonts\K_21.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ÇüéâäàåçêëèïîìÄÅÉæÆôöòûùÿÖÜø£Ø×ƒáíóúñÑªº¿®¬½¼¡«»</letters>
+		</font>
+		<font name="L" productName="L" height="24" width="12" letterSpace="2" SpaceColsCount="4" charset="0" fixed="1" fontRef="22" fileName="fonts\L_22.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ÇüéâäàåçêëèïîìÄÅÉæÆôöòûùÿÖÜø£Ø×ƒáíóúñÑªº¿®¬½¼¡«»</letters>
+		</font>
+		<font name="Parisine 12" productName="M" height="12" width="14" letterSpace="1" SpaceColsCount="3" charset="3" lat9grp="Parisine 12" lat9type="2" fixed="1" fontRef="24" fileName="fonts\M_24.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ÇüéâäàåçêëèïîìÄÅÉæÆôöòûùÿÖÜø£Ø×ƒáíóúñÑªº¿®¬½¼¡«»</letters>
+		</font>
+		<font name="Parisine 12 Bold" productName="N" height="12" width="14" letterSpace="1" SpaceColsCount="3" charset="3" lat9grp="Parisine 12" lat9type="3" fixed="1" fontRef="25" fileName="fonts\N_25.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ÇüéâäàåçêëèïîìÄÅÉæÆôöòûùÿÖÜø£Ø×ƒáíóúñÑªº¿®¬½¼¡«»</letters>
+		</font>
+		<font name="Parisine 24" productName="O" height="24" width="24" letterSpace="2" SpaceColsCount="4" charset="3" lat9grp="Parisine 24" lat9type="2" fixed="1" fontRef="26" fileName="fonts\O_26.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ÇüéâäàåçêëèïîìÄÅÉæÆôöòûùÿÖÜø£Ø×ƒáíóúñÑªº¿®¬½¼¡«»</letters>
+		</font>
+		<font name="Duhamel 08/07 1-UltraCondensed" productName="0" height="8" width="3" letterSpace="1" SpaceColsCount="2" charset="3" lat9grp="Duhamel 08/07" lat9type="0" fixed="1" fontRef="100" fileName="fonts\0_100.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£€¥Š§š©ª«¬-®¯°±²³Žµ·ž¹º»ŒœŸ¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿ</letters>
+		</font>
+		<font name="Duhamel 08/07 2-Condensed" productName="1" height="8" width="4" letterSpace="1" SpaceColsCount="2" charset="3" lat9grp="Duhamel 08/07" lat9type="1" fixed="1" fontRef="101" fileName="fonts\1_101.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£€¥Š§š©ª«¬-®¯°±²³Žµ·ž¹º»ŒœŸ¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿ</letters>
+		</font>
+		<font name="Duhamel 08/07 3-Normal" productName="2" height="8" width="5" letterSpace="1" SpaceColsCount="2" charset="3" lat9grp="Duhamel 08/07" lat9type="2" fixed="1" fontRef="102" fileName="fonts\2_102.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£€¥Š§š©ª«¬-®¯°±²³Žµ·ž¹º»ŒœŸ¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿ</letters>
+		</font>
+		<font name="Duhamel 08/07 4-Bold" productName="3" height="8" width="7" letterSpace="1" SpaceColsCount="2" charset="3" lat9grp="Duhamel 08/07" lat9type="3" fixed="1" fontRef="103" fileName="fonts\3_103.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£€¥Š§š©ª«¬-®¯°±²³Žµ·ž¹º»ŒœŸ¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿ</letters>
+		</font>
+		<font name="Duhamel 10/08 1-UltraCondensed" productName="a" height="10" width="3" letterSpace="1" SpaceColsCount="2" charset="3" lat9grp="Duhamel 10/08" lat9type="0" fixed="1" fontRef="104" fileName="fonts\a_104.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£€¥Š§š©ª«¬-®¯°±²³Žµ·ž¹º»ŒœŸ¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿ</letters>
+		</font>
+		<font name="Duhamel 10/08 2-Condensed" productName="b" height="10" width="4" letterSpace="1" SpaceColsCount="2" charset="3" lat9grp="Duhamel 10/08" lat9type="1" fixed="1" fontRef="105" fileName="fonts\b_105.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£€¥Š§š©ª«¬-®¯°±²³Žµ·ž¹º»ŒœŸ¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿ</letters>
+		</font>
+		<font name="Duhamel 10/08 3-Normal" productName="c" height="10" width="5" letterSpace="1" SpaceColsCount="2" charset="3" lat9grp="Duhamel 10/08" lat9type="2" fixed="1" fontRef="106" fileName="fonts\c_106.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£€¥Š§š©ª«¬-®¯°±²³Žµ·ž¹º»ŒœŸ¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿ</letters>
+		</font>
+		<font name="Duhamel 10/08 4-Bold" productName="d" height="10" width="7" letterSpace="1" SpaceColsCount="2" charset="3" lat9grp="Duhamel 10/08" lat9type="3" fixed="1" fontRef="107" fileName="fonts\d_107.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£€¥Š§š©ª«¬-®¯°±²³Žµ·ž¹º»ŒœŸ¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿ</letters>
+		</font>
+		<font name="Duhamel 10/10 1-UltraCondensed" productName="e" height="10" width="4" letterSpace="1" SpaceColsCount="2" charset="3" lat9grp="Duhamel 10/10" lat9type="0" fixed="1" fontRef="108" fileName="fonts\e_108.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£€¥Š§š©ª«¬-®¯°±²³Žµ·ž¹º»ŒœŸ¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿ</letters>
+		</font>
+		<font name="Duhamel 10/10 2-Condensed" productName="f" height="10" width="5" letterSpace="1" SpaceColsCount="2" charset="3" lat9grp="Duhamel 10/10" lat9type="1" fixed="1" fontRef="109" fileName="fonts\f_109.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£€¥Š§š©ª«¬-®¯°±²³Žµ·ž¹º»ŒœŸ¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿ</letters>
+		</font>
+		<font name="Duhamel 10/10 3-Normal" productName="6" height="10" width="7" letterSpace="1" SpaceColsCount="2" charset="3" lat9grp="Duhamel 10/10" lat9type="2" fixed="1" fontRef="110" fileName="fonts\6_110.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£€¥Š§š©ª«¬-®¯°±²³Žµ·ž¹º»ŒœŸ¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿ</letters>
+		</font>
+		<font name="Duhamel 10/10 4-Bold" productName="g" height="10" width="9" letterSpace="1" SpaceColsCount="2" charset="3" lat9grp="Duhamel 10/10" lat9type="3" fixed="1" fontRef="111" fileName="fonts\g_111.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£€¥Š§š©ª«¬-®¯°±²³Žµ·ž¹º»ŒœŸ¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿ</letters>
+		</font>
+		<font name="Duhamel 16/14 1-UltraCondensed" productName="9" height="16" width="5" letterSpace="1" SpaceColsCount="2" charset="3" lat9grp="Duhamel 16/14" lat9type="0" fixed="1" fontRef="112" fileName="fonts\9_112.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£€¥Š§š©ª«¬-®¯°±²³Žµ·ž¹º»ŒœŸ¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿ</letters>
+		</font>
+		<font name="Duhamel 16/14 2-Condensed" productName="A" height="16" width="7" letterSpace="1" SpaceColsCount="2" charset="3" lat9grp="Duhamel 16/14" lat9type="1" fixed="1" fontRef="113" fileName="fonts\A_113.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£€¥Š§š©ª«¬-®¯°±²³Žµ·ž¹º»ŒœŸ¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿ</letters>
+		</font>
+		<font name="Duhamel 16/14 3-Normal" productName="h" height="16" width="9" letterSpace="1" SpaceColsCount="2" charset="3" lat9grp="Duhamel 16/14" lat9type="2" fixed="1" fontRef="114" fileName="fonts\h_114.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£€¥Š§š©ª«¬-®¯°±²³Žµ·ž¹º»ŒœŸ¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿ</letters>
+		</font>
+		<font name="Duhamel 16/14 4-Bold" productName="i" height="16" width="12" letterSpace="1" SpaceColsCount="2" charset="3" lat9grp="Duhamel 16/14" lat9type="3" fixed="1" fontRef="115" fileName="fonts\i_115.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£€¥Š§š©ª«¬-®¯°±²³Žµ·ž¹º»ŒœŸ¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿ</letters>
+		</font>
+		<font name="Duhamel 16/16 1-UltraCondensed" productName="j" height="16" width="6" letterSpace="1" SpaceColsCount="2" charset="3" lat9grp="Duhamel 16/16" lat9type="0" fixed="1" fontRef="116" fileName="fonts\j_116.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£€¥Š§š©ª«¬-®¯°±²³Žµ·ž¹º»ŒœŸ¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿ</letters>
+		</font>
+		<font name="Duhamel 16/16 2-Condensed" productName="k" height="16" width="8" letterSpace="1" SpaceColsCount="2" charset="3" lat9grp="Duhamel 16/16" lat9type="1" fixed="1" fontRef="117" fileName="fonts\k_117.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£€¥Š§š©ª«¬-®¯°±²³Žµ·ž¹º»ŒœŸ¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿ</letters>
+		</font>
+		<font name="Duhamel 16/16 3-Normal" productName="l" height="16" width="10" letterSpace="1" SpaceColsCount="2" charset="3" lat9grp="Duhamel 16/16" lat9type="2" fixed="1" fontRef="118" fileName="fonts\l_118.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£€¥Š§š©ª«¬-®¯°±²³Žµ·ž¹º»ŒœŸ¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿ</letters>
+		</font>
+		<font name="Duhamel 16/16 4-Bold" productName="B" height="16" width="12" letterSpace="1" SpaceColsCount="2" charset="3" lat9grp="Duhamel 16/16" lat9type="3" fixed="1" fontRef="119" fileName="fonts\B_119.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£€¥Š§š©ª«¬-®¯°±²³Žµ·ž¹º»ŒœŸ¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿ</letters>
+		</font>
+		<font name="Duhamel 20/18 1-UltraCondensed" productName="m" height="20" width="7" letterSpace="1" SpaceColsCount="2" charset="3" lat9grp="Duhamel 20/18" lat9type="0" fixed="1" fontRef="120" fileName="fonts\m_120.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£€¥Š§š©ª«¬-®¯°±²³Žµ·ž¹º»ŒœŸ¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿ</letters>
+		</font>
+		<font name="Duhamel 20/18 2-Condensed" productName="n" height="20" width="9" letterSpace="1" SpaceColsCount="2" charset="3" lat9grp="Duhamel 20/18" lat9type="1" fixed="1" fontRef="121" fileName="fonts\n_121.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£€¥Š§š©ª«¬-®¯°±²³Žµ·ž¹º»ŒœŸ¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿ</letters>
+		</font>
+		<font name="Duhamel 20/18 3-Normal" productName="o" height="20" width="11" letterSpace="1" SpaceColsCount="2" charset="3" lat9grp="Duhamel 20/18" lat9type="2" fixed="1" fontRef="122" fileName="fonts\o_122.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£€¥Š§š©ª«¬-®¯°±²³Žµ·ž¹º»ŒœŸ¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿ</letters>
+		</font>
+		<font name="Duhamel 20/18 4-Bold" productName="p" height="20" width="16" letterSpace="1" SpaceColsCount="2" charset="3" lat9grp="Duhamel 20/18" lat9type="3" fixed="1" fontRef="123" fileName="fonts\p_123.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£€¥Š§š©ª«¬-®¯°±²³Žµ·ž¹º»ŒœŸ¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿ</letters>
+		</font>
+		<font name="Duhamel 20/20 1-UltraCondensed" productName="q" height="20" width="8" letterSpace="1" SpaceColsCount="2" charset="3" lat9grp="Duhamel 20/20" lat9type="0" fixed="1" fontRef="124" fileName="fonts\q_124.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£€¥Š§š©ª«¬-®¯°±²³Žµ·ž¹º»ŒœŸ¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿ</letters>
+		</font>
+		<font name="Duhamel 20/20 2-Condensed" productName="r" height="20" width="10" letterSpace="1" SpaceColsCount="2" charset="3" lat9grp="Duhamel 20/20" lat9type="1" fixed="1" fontRef="125" fileName="fonts\r_125.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£€¥Š§š©ª«¬-®¯°±²³Žµ·ž¹º»ŒœŸ¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿ</letters>
+		</font>
+		<font name="Duhamel 20/20 3-Normal" productName="s" height="20" width="13" letterSpace="1" SpaceColsCount="2" charset="3" lat9grp="Duhamel 20/20" lat9type="2" fixed="1" fontRef="126" fileName="fonts\s_126.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£€¥Š§š©ª«¬-®¯°±²³Žµ·ž¹º»ŒœŸ¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿ</letters>
+		</font>
+		<font name="Duhamel 20/20 4-Bold" productName="t" height="20" width="18" letterSpace="1" SpaceColsCount="2" charset="3" lat9grp="Duhamel 20/20" lat9type="3" fixed="1" fontRef="127" fileName="fonts\t_127.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£€¥Š§š©ª«¬-®¯°±²³Žµ·ž¹º»ŒœŸ¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿ</letters>
+		</font>
+		<font name="Duhamel 24/22 1-UltraCondensed" productName="u" height="24" width="8" letterSpace="1" SpaceColsCount="2" charset="3" lat9grp="Duhamel 24/22" lat9type="0" fixed="1" fontRef="128" fileName="fonts\u_128.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£€¥Š§š©ª«¬-®¯°±²³Žµ·ž¹º»ŒœŸ¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿ</letters>
+		</font>
+		<font name="Duhamel 24/22 2-Condensed" productName="G" height="24" width="12" letterSpace="1" SpaceColsCount="2" charset="3" lat9grp="Duhamel 24/22" lat9type="1" fixed="1" fontRef="129" fileName="fonts\G_129.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£€¥Š§š©ª«¬-®¯°±²³Žµ·ž¹º»ŒœŸ¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿ</letters>
+		</font>
+		<font name="Duhamel 24/22 3-Normal" productName="v" height="24" width="14" letterSpace="1" SpaceColsCount="2" charset="3" lat9grp="Duhamel 24/22" lat9type="2" fixed="1" fontRef="130" fileName="fonts\v_130.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£€¥Š§š©ª«¬-®¯°±²³Žµ·ž¹º»ŒœŸ¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿ</letters>
+		</font>
+		<font name="Duhamel 24/22 4-Bold" productName="w" height="24" width="19" letterSpace="1" SpaceColsCount="2" charset="3" lat9grp="Duhamel 24/22" lat9type="3" fixed="1" fontRef="131" fileName="fonts\w_131.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£€¥Š§š©ª«¬-®¯°±²³Žµ·ž¹º»ŒœŸ¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿ</letters>
+		</font>
+		<font name="Duhamel 24/24 1-UltraCondensed" productName="x" height="24" width="9" letterSpace="1" SpaceColsCount="2" charset="3" lat9grp="Duhamel 24/24" lat9type="0" fixed="1" fontRef="132" fileName="fonts\x_132.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£€¥Š§š©ª«¬-®¯°±²³Žµ·ž¹º»ŒœŸ¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿ</letters>
+		</font>
+		<font name="Duhamel 24/24 2-Condensed" productName="H" height="24" width="14" letterSpace="1" SpaceColsCount="2" charset="3" lat9grp="Duhamel 24/24" lat9type="1" fixed="1" fontRef="133" fileName="fonts\H_133.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£€¥Š§š©ª«¬-®¯°±²³Žµ·ž¹º»ŒœŸ¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿ</letters>
+		</font>
+		<font name="Duhamel 24/24 3-Normal" productName="y" height="24" width="15" letterSpace="1" SpaceColsCount="2" charset="3" lat9grp="Duhamel 24/24" lat9type="2" fixed="1" fontRef="134" fileName="fonts\y_134.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£€¥Š§š©ª«¬-®¯°±²³Žµ·ž¹º»ŒœŸ¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿ</letters>
+		</font>
+		<font name="Duhamel 24/24 4-Bold" productName="z" height="24" width="21" letterSpace="1" SpaceColsCount="2" charset="3" lat9grp="Duhamel 24/24" lat9type="3" fixed="1" fontRef="135" fileName="fonts\z_135.dft">
+			<letters>!"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£€¥Š§š©ª«¬-®¯°±²³Žµ·ž¹º»ŒœŸ¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿ</letters>
+		</font>
+	</fonts>
+	<systemFonts/>
+	<logos>
+		<logo name="Duhamel" fontRef="15">
+			<letters>!"#$</letters>
+		</logo>
+		<logo name="Aéroport 1" fontRef="15">
+			<letters>%</letters>
+		</logo>
+		<logo name="Sapin" fontRef="15">
+			<letters>'</letters>
+		</logo>
+		<logo name="Scolaire" fontRef="15">
+			<letters>()</letters>
+		</logo>
+		<logo name="RER" fontRef="15">
+			<letters>*+</letters>
+		</logo>
+		<logo name="Football" fontRef="15">
+			<letters>,-</letters>
+		</logo>
+		<logo name="Aéroport 2" fontRef="15">
+			<letters>.</letters>
+		</logo>
+		<logo name="Note" fontRef="15">
+			<letters>/</letters>
+		</logo>
+		<logo name="Aéroport 3" fontRef="15">
+			<letters>23</letters>
+		</logo>
+		<logo name="Coupe" fontRef="15">
+			<letters>45</letters>
+		</logo>
+		<logo name="Tennis" fontRef="15">
+			<letters>67</letters>
+		</logo>
+		<logo name="Cheval" fontRef="15">
+			<letters>89</letters>
+		</logo>
+		<logo name="A" fontRef="15">
+			<letters>&lt;=</letters>
+		</logo>
+		<logo name="Locomotive" fontRef="15">
+			<letters>&gt;?@</letters>
+		</logo>
+		<logo name="Anniversaire" fontRef="15">
+			<letters>EF</letters>
+		</logo>
+		<logo name="Bus de face" fontRef="15">
+			<letters>GH</letters>
+		</logo>
+		<logo name="Bus de profil" fontRef="15">
+			<letters>IJKLM</letters>
+		</logo>
+		<logo name="Ski" fontRef="15">
+			<letters>NO</letters>
+		</logo>
+		<logo name="Plage" fontRef="15">
+			<letters>PQ</letters>
+		</logo>
+		<logo name="Palmier" fontRef="15">
+			<letters>R</letters>
+		</logo>
+		<logo name="Cheval" fontRef="15">
+			<letters>TU</letters>
+		</logo>
+		<logo name="Bateau" fontRef="15">
+			<letters>V</letters>
+		</logo>
+		<logo name="Handi1" fontRef="15">
+			<letters>W</letters>
+		</logo>
+		<logo name="Handi2" fontRef="15">
+			<letters>X</letters>
+		</logo>
+		<logo name="TER-19" fontRef="15">
+			<letters>YZ&amp;</letters>
+		</logo>
+		<logo name="TER" fontRef="13">
+			<letters>!"#</letters>
+		</logo>
+		<logo name="Lumiplan" fontRef="15">
+			<letters>S01;</letters>
+		</logo>
+		<logo name="TER-16" fontRef="15">
+			<letters>:AB</letters>
+		</logo>
+		<logo name="Bus" fontRef="23">
+			<letters>$%</letters>
+		</logo>
+		<logo name="TER" fontRef="23">
+			<letters>!"#</letters>
+		</logo>
+		<logo name="Handi" fontRef="23">
+			<letters>&amp;</letters>
+		</logo>
+		<logo name="Sapin" fontRef="23">
+			<letters>'</letters>
+		</logo>
+		<logo name="Scolaire" fontRef="23">
+			<letters>()</letters>
+		</logo>
+		<logo name="Lumiplan" fontRef="23">
+			<letters>:;</letters>
+		</logo>
+	</logos>
+</FontsModule>

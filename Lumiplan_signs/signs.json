@@ -1,0 +1,1013 @@
+[
+  {
+    "familyname": "Inside sign",
+    "sizes": [
+      {
+        "keyName": "07x040_I",
+        "size": "07x040"
+      },
+      {
+        "keyName": "07x080_I",
+        "size": "07x080"
+      },
+      {
+        "keyName": "07x090_I",
+        "size": "07x090"
+      },
+      {
+        "keyName": "07x100_I",
+        "size": "07x100"
+      },
+      {
+        "keyName": "07x120_I",
+        "size": "07x120"
+      },
+      {
+        "keyName": "07x160_I",
+        "size": "07x160"
+      },
+      {
+        "keyName": "08x080_I",
+        "size": "08x080"
+      },
+      {
+        "keyName": "08x090_I",
+        "size": "08x090"
+      },
+      {
+        "keyName": "16x128_I",
+        "size": "16x128"
+      },
+      {
+        "keyName": "16x144_I",
+        "size": "16x144"
+      },
+      {
+        "keyName": "16x160_I",
+        "size": "16x160"
+      }
+    ]
+  },
+  {
+    "familyname": "SNPxxxx Inside sign",
+    "sizes": [
+      {
+        "keyName": "08x080_BTI",
+        "size": "08x080"
+      },
+      {
+        "keyName": "08x160_BTI",
+        "size": "08x160"
+      },
+      {
+        "keyName": "16x128_BTI",
+        "size": "16x128"
+      },
+      {
+        "keyName": "16x144_BTI",
+        "size": "16x144"
+      }
+    ]
+  },
+  {
+    "familyname": "08x080 SNPxxxx Inside sign",
+    "sizes": [
+      {
+        "keyName": "8x80_BTI",
+        "size": "8x80"
+      }
+    ]
+  },
+  {
+    "familyname": "bitmap bi-mode colour/monochromic LED",
+    "sizes": [
+      {
+        "keyName": "12x28+12x084_ABBM_C/M",
+        "size": "12x112"
+      },
+      {
+        "keyName": "16x28+16x080_ABBM_C/M",
+        "size": "16x108"
+      },
+      {
+        "keyName": "16x28+16x120_ABBM_C/M",
+        "size": "16x148"
+      },
+      {
+        "keyName": "24x40+24x160_ABBM_C/M",
+        "size": "24x200"
+      }
+    ]
+  },
+  {
+    "familyname": "Route number bitmap bi-mode colour/monochromic LED",
+    "sizes": [
+      {
+        "keyName": "12x28+12x084_ABBM_C/M",
+        "size": "12x28"
+      },
+      {
+        "keyName": "16x28+16x080_ABBM_C/M",
+        "size": "16x28"
+      },
+      {
+        "keyName": "16x28+16x120_ABBM_C/M",
+        "size": "16x28"
+      },
+      {
+        "keyName": "24x40+24x160_ABBM_C/M",
+        "size": "24x40"
+      }
+    ]
+  },
+  {
+    "familyname": "bi-mode colour/monochromic LED",
+    "sizes": [
+      {
+        "keyName": "16x28+16x080_BM_C/M",
+        "size": "16x108"
+      },
+      {
+        "keyName": "16x28+16x084_BM_C/M",
+        "size": "16x112"
+      },
+      {
+        "keyName": "16x28+16x098_BM_C/M",
+        "size": "16x126"
+      },
+      {
+        "keyName": "16x28+16x100_BM_C/M",
+        "size": "16x128"
+      },
+      {
+        "keyName": "16x28+16x160_BM_C/M",
+        "size": "16x188"
+      },
+      {
+        "keyName": "16x40+16x080_BM_C/M",
+        "size": "16x120"
+      },
+      {
+        "keyName": "16x40+16x120_BM_C/M",
+        "size": "16x160"
+      },
+      {
+        "keyName": "16x40+16x140_BM_C/M",
+        "size": "16x180"
+      },
+      {
+        "keyName": "16x40+16x160_BM_C/M",
+        "size": "16x200"
+      },
+      {
+        "keyName": "16x40+16x180_BM_C/M",
+        "size": "16x220"
+      },
+      {
+        "keyName": "24x40+16x084_BM_C/M",
+        "size": "24x124"
+      },
+      {
+        "keyName": "24x40+16x100_BM_C/M",
+        "size": "24x140"
+      },
+      {
+        "keyName": "24x40+16x112_BM_C/M",
+        "size": "24x152"
+      },
+      {
+        "keyName": "24x40+16x120_BM_C/M",
+        "size": "24x160"
+      },
+      {
+        "keyName": "24x40+16x140_BM_C/M",
+        "size": "24x180"
+      },
+      {
+        "keyName": "24x40+24x098_BM_C/M",
+        "size": "24x138"
+      },
+      {
+        "keyName": "24x40+24x112_BM_C/M",
+        "size": "24x152"
+      },
+      {
+        "keyName": "24x40+24x120_BM_C/M",
+        "size": "24x160"
+      },
+      {
+        "keyName": "24x40+24x126_BM_C/M",
+        "size": "24x166"
+      },
+      {
+        "keyName": "24x40+24x140_BM_C/M",
+        "size": "24x180"
+      },
+      {
+        "keyName": "24x40+24x160_BM_C/M",
+        "size": "24x200"
+      },
+      {
+        "keyName": "24x40+24x180_BM_C/M",
+        "size": "24x220"
+      }
+    ]
+  },
+  {
+    "familyname": "Route number bi-mode colour/monochromic LED",
+    "sizes": [
+      {
+        "keyName": "16x28+16x080_BM_C/M",
+        "size": "16x28"
+      },
+      {
+        "keyName": "16x28+16x084_BM_C/M",
+        "size": "16x28"
+      },
+      {
+        "keyName": "16x28+16x098_BM_C/M",
+        "size": "16x28"
+      },
+      {
+        "keyName": "16x28+16x100_BM_C/M",
+        "size": "16x28"
+      },
+      {
+        "keyName": "16x28+16x160_BM_C/M",
+        "size": "16x28"
+      },
+      {
+        "keyName": "16x40+16x080_BM_C/M",
+        "size": "16x40"
+      },
+      {
+        "keyName": "16x40+16x120_BM_C/M",
+        "size": "16x40"
+      },
+      {
+        "keyName": "16x40+16x140_BM_C/M",
+        "size": "16x40"
+      },
+      {
+        "keyName": "16x40+16x160_BM_C/M",
+        "size": "16x40"
+      },
+      {
+        "keyName": "16x40+16x180_BM_C/M",
+        "size": "16x40"
+      },
+      {
+        "keyName": "24x40+16x084_BM_C/M",
+        "size": "24x40"
+      },
+      {
+        "keyName": "24x40+16x100_BM_C/M",
+        "size": "24x40"
+      },
+      {
+        "keyName": "24x40+16x112_BM_C/M",
+        "size": "24x40"
+      },
+      {
+        "keyName": "24x40+16x120_BM_C/M",
+        "size": "24x40"
+      },
+      {
+        "keyName": "24x40+16x140_BM_C/M",
+        "size": "24x40"
+      },
+      {
+        "keyName": "24x40+24x098_BM_C/M",
+        "size": "24x40"
+      },
+      {
+        "keyName": "24x40+24x112_BM_C/M",
+        "size": "24x40"
+      },
+      {
+        "keyName": "24x40+24x120_BM_C/M",
+        "size": "24x40"
+      },
+      {
+        "keyName": "24x40+24x126_BM_C/M",
+        "size": "24x40"
+      },
+      {
+        "keyName": "24x40+24x140_BM_C/M",
+        "size": "24x40"
+      },
+      {
+        "keyName": "24x40+24x160_BM_C/M",
+        "size": "24x40"
+      },
+      {
+        "keyName": "24x40+24x180_BM_C/M",
+        "size": "24x40"
+      }
+    ]
+  },
+  {
+    "familyname": "bi-mode colour LED / Flip-dot",
+    "sizes": [
+      {
+        "keyName": "16x28+16x084_BM_C/Fd",
+        "size": "16x112"
+      },
+      {
+        "keyName": "16x28+16x098_BM_C/Fd",
+        "size": "16x126"
+      },
+      {
+        "keyName": "24x40+16x084_BM_C/Fd",
+        "size": "24x124"
+      },
+      {
+        "keyName": "24x40+16x098_BM_C/Fd",
+        "size": "24x138"
+      },
+      {
+        "keyName": "24x40+19x098_BM_C/Fd",
+        "size": "24x138"
+      }
+    ]
+  },
+  {
+    "familyname": "Route number bi-mode colour LED / Flip-dot",
+    "sizes": [
+      {
+        "keyName": "16x28+16x084_BM_C/Fd",
+        "size": "16x28"
+      },
+      {
+        "keyName": "16x28+16x098_BM_C/Fd",
+        "size": "16x28"
+      },
+      {
+        "keyName": "24x40+16x084_BM_C/Fd",
+        "size": "24x40"
+      },
+      {
+        "keyName": "24x40+16x098_BM_C/Fd",
+        "size": "24x40"
+      },
+      {
+        "keyName": "24x40+19x098_BM_C/Fd",
+        "size": "24x40"
+      }
+    ]
+  },
+  {
+    "familyname": "bi-mode red/amber LED",
+    "sizes": [
+      {
+        "keyName": "20x32+20x064_BM_R/A",
+        "size": "20x96"
+      },
+      {
+        "keyName": "20x32+20x128_BM_R/A",
+        "size": "20x160"
+      }
+    ]
+  },
+  {
+    "familyname": "Route number bi-mode red/amber LED",
+    "sizes": [
+      {
+        "keyName": "20x32+20x064_BM_R/A",
+        "size": "20x32"
+      },
+      {
+        "keyName": "20x32+20x128_BM_R/A",
+        "size": "20x32"
+      }
+    ]
+  },
+  {
+    "familyname": "Bitmap LED sign",
+    "sizes": [
+      {
+        "keyName": "08x096_AMB",
+        "size": "08x096"
+      },
+      {
+        "keyName": "14x072_AMB",
+        "size": "14x072"
+      },
+      {
+        "keyName": "14x080_AMB",
+        "size": "14x080"
+      },
+      {
+        "keyName": "14x108_AMB",
+        "size": "14x108"
+      },
+      {
+        "keyName": "16x120_AMB",
+        "size": "16x120"
+      },
+      {
+        "keyName": "16x140_AMB",
+        "size": "16x140"
+      },
+      {
+        "keyName": "16x160_AMB",
+        "size": "16x160"
+      },
+      {
+        "keyName": "19x160_AMB",
+        "size": "19x160"
+      },
+      {
+        "keyName": "24x160_AMB",
+        "size": "24x160"
+      },
+      {
+        "keyName": "16x028_AMB",
+        "size": "16x028"
+      },
+      {
+        "keyName": "16x032_AMB",
+        "size": "16x032"
+      },
+      {
+        "keyName": "16x033_AMB",
+        "size": "16x033"
+      }
+    ]
+  },
+  {
+    "familyname": "iris sign",
+    "sizes": [
+      {
+        "keyName": "08x084_IRIS",
+        "size": "08x084"
+      }
+    ]
+  },
+  {
+    "familyname": "LED sign",
+    "sizes": [
+      {
+        "keyName": "07x080_M",
+        "size": "07x080"
+      },
+      {
+        "keyName": "07x120_M",
+        "size": "07x120"
+      },
+      {
+        "keyName": "08x048_M",
+        "size": "08x048"
+      },
+      {
+        "keyName": "08x084_M",
+        "size": "08x084"
+      },
+      {
+        "keyName": "08x096_M",
+        "size": "08x096"
+      },
+      {
+        "keyName": "08x120_M",
+        "size": "08x120"
+      },
+      {
+        "keyName": "14x060_M",
+        "size": "14x060"
+      },
+      {
+        "keyName": "14x072_M",
+        "size": "14x072"
+      },
+      {
+        "keyName": "14x108_M",
+        "size": "14x108"
+      },
+      {
+        "keyName": "16x080_M",
+        "size": "16x080"
+      },
+      {
+        "keyName": "16x084_M",
+        "size": "16x084"
+      },
+      {
+        "keyName": "16x100_M",
+        "size": "16x100"
+      },
+      {
+        "keyName": "16x112_M",
+        "size": "16x112"
+      },
+      {
+        "keyName": "16x120_M",
+        "size": "16x120"
+      },
+      {
+        "keyName": "16x126_M",
+        "size": "16x126"
+      },
+      {
+        "keyName": "16x128_M",
+        "size": "16x128"
+      },
+      {
+        "keyName": "16x140_M",
+        "size": "16x140"
+      },
+      {
+        "keyName": "16x160_M",
+        "size": "16x160"
+      },
+      {
+        "keyName": "16x180_M",
+        "size": "16x180"
+      },
+      {
+        "keyName": "19x168_M",
+        "size": "19x168"
+      },
+      {
+        "keyName": "20x120_M",
+        "size": "20x120"
+      },
+      {
+        "keyName": "20x160_M",
+        "size": "20x160"
+      },
+      {
+        "keyName": "24x180_M",
+        "size": "24x180"
+      },
+      {
+        "keyName": "24x182_M",
+        "size": "24x182"
+      },
+      {
+        "keyName": "24x200_M",
+        "size": "24x200"
+      },
+      {
+        "keyName": "16x028_M",
+        "size": "16x028"
+      },
+      {
+        "keyName": "16x032_M",
+        "size": "16x032"
+      },
+      {
+        "keyName": "16x040_M",
+        "size": "16x040"
+      },
+      {
+        "keyName": "20x040_M",
+        "size": "20x040"
+      },
+      {
+        "keyName": "24x040_M",
+        "size": "24x040"
+      }
+    ]
+  },
+  {
+    "familyname": "colour LED sign",
+    "sizes": [
+      {
+        "keyName": "16x112_C",
+        "size": "16x112"
+      },
+      {
+        "keyName": "16x120_C",
+        "size": "16x120"
+      },
+      {
+        "keyName": "16x140_C",
+        "size": "16x140"
+      },
+      {
+        "keyName": "16x160_C",
+        "size": "16x160"
+      },
+      {
+        "keyName": "24x160_C",
+        "size": "24x160"
+      },
+      {
+        "keyName": "24x040_C",
+        "size": "24x040"
+      },
+      {
+        "keyName": "16x028_C",
+        "size": "16x028"
+      },
+      {
+        "keyName": "16x040_C",
+        "size": "16x040"
+      }
+    ]
+  },
+  {
+    "familyname": "mixed flip-dot sign",
+    "sizes": [
+      {
+        "keyName": "07x12+07x084_BM_Fd",
+        "size": "7x96"
+      },
+      {
+        "keyName": "14x14+07x078_BM_Fd",
+        "size": "14x92"
+      },
+      {
+        "keyName": "14x18+07x084_BM_Fd",
+        "size": "14x102"
+      }
+    ]
+  },
+  {
+    "familyname": "Route number mixed flip-dot sign",
+    "sizes": [
+      {
+        "keyName": "07x12+07x084_BM_Fd",
+        "size": "07x12"
+      },
+      {
+        "keyName": "14x14+07x078_BM_Fd",
+        "size": "14x14"
+      },
+      {
+        "keyName": "14x18+07x084_BM_Fd",
+        "size": "14x18"
+      }
+    ]
+  },
+  {
+    "familyname": "flip-dot sign",
+    "sizes": [
+      {
+        "keyName": "07x072_Fd",
+        "size": "07x072"
+      },
+      {
+        "keyName": "07x084_Fd",
+        "size": "07x084"
+      },
+      {
+        "keyName": "14x018_Fd",
+        "size": "14x018"
+      },
+      {
+        "keyName": "16x028_Fd",
+        "size": "16x028"
+      },
+      {
+        "keyName": "16x070_Fd",
+        "size": "16x070"
+      },
+      {
+        "keyName": "16x084_Fd",
+        "size": "16x084"
+      },
+      {
+        "keyName": "16x098_Fd",
+        "size": "16x098"
+      },
+      {
+        "keyName": "16x112_Fd",
+        "size": "16x112"
+      },
+      {
+        "keyName": "16x126_Fd",
+        "size": "16x126"
+      },
+      {
+        "keyName": "19x098_Fd",
+        "size": "19x098"
+      },
+      {
+        "keyName": "19x126_Fd",
+        "size": "19x126"
+      }
+    ]
+  },
+  {
+    "familyname": "08x048 SLP3xxx LED sign",
+    "sizes": [
+      {
+        "keyName": "8x48_BTM",
+        "size": "8x48"
+      }
+    ]
+  },
+  {
+    "familyname": "SLP3xxx LED sign",
+    "sizes": [
+      {
+        "keyName": "08x096_BTM",
+        "size": "08x096"
+      },
+      {
+        "keyName": "08x120_BTM",
+        "size": "08x120"
+      },
+      {
+        "keyName": "16x080_BTM",
+        "size": "16x080"
+      },
+      {
+        "keyName": "16x100_BTM",
+        "size": "16x100"
+      },
+      {
+        "keyName": "16x120_BTM",
+        "size": "16x120"
+      },
+      {
+        "keyName": "16x128_BTM",
+        "size": "16x128"
+      },
+      {
+        "keyName": "16x144_BTM",
+        "size": "16x144"
+      },
+      {
+        "keyName": "16x160_BTM",
+        "size": "16x160"
+      },
+      {
+        "keyName": "16x180_BTM",
+        "size": "16x180"
+      },
+      {
+        "keyName": "16x256_BTM",
+        "size": "16x256"
+      },
+      {
+        "keyName": "20x120_BTM",
+        "size": "20x120"
+      },
+      {
+        "keyName": "20x160_BTM",
+        "size": "20x160"
+      },
+      {
+        "keyName": "24x160_BTM",
+        "size": "24x160"
+      },
+      {
+        "keyName": "24x180_BTM",
+        "size": "24x180"
+      },
+      {
+        "keyName": "24x200_BTM",
+        "size": "24x200"
+      }
+    ]
+  },
+  {
+    "familyname": "SLP3xxx LED sign with colored line",
+    "sizes": [
+      {
+        "keyName": "16x128_BTMTC",
+        "size": "16x128"
+      }
+    ]
+  },
+  {
+    "familyname": "20x096 SLP3xxx LED sign",
+    "sizes": [
+      {
+        "keyName": "20x96_BTM",
+        "size": "20x96"
+      }
+    ]
+  },
+  {
+    "familyname": "SLP5xxx color LED sign",
+    "sizes": [
+      {
+        "keyName": "16x120_BTC",
+        "size": "16x120"
+      },
+      {
+        "keyName": "16x160_BTC",
+        "size": "16x160"
+      },
+      {
+        "keyName": "16x080_BTC",
+        "size": "16x080"
+      },
+      {
+        "keyName": "16x040_BTC",
+        "size": "16x040"
+      },
+      {
+        "keyName": "24x040_BTC",
+        "size": "24x040"
+      }
+    ]
+  },
+  {
+    "familyname": "Bitmap colour LED sign",
+    "sizes": [
+      {
+        "keyName": "16x028_ACB",
+        "size": "16x028"
+      },
+      {
+        "keyName": "24x040_ACB",
+        "size": "24x040"
+      }
+    ]
+  },
+  {
+    "familyname": "red LED sign",
+    "sizes": [
+      {
+        "keyName": "20x032_R",
+        "size": "20x032"
+      }
+    ]
+  },
+  {
+    "familyname": "16x40 SLP3xxx LED sign",
+    "sizes": [
+      {
+        "keyName": "16x040_BTM",
+        "size": "16x040"
+      }
+    ]
+  },
+  {
+    "familyname": "20x40 SLP3xxx LED sign",
+    "sizes": [
+      {
+        "keyName": "20x040_BTM",
+        "size": "20x040"
+      }
+    ]
+  },
+  {
+    "familyname": "24x040 SLP3xxx LED sign",
+    "sizes": [
+      {
+        "keyName": "24x40_BTM",
+        "size": "24x40"
+      }
+    ]
+  },
+  {
+    "familyname": "20x32 SLP3xxx red LED sign",
+    "sizes": [
+      {
+        "keyName": "20x032_BTR",
+        "size": "20x032"
+      }
+    ]
+  },
+  {
+    "familyname": "SLP4xxx bi-mode colour/monochromic LED",
+    "sizes": [
+      {
+        "keyName": "16x40+16x080_BTBM_C/M",
+        "size": "16x120"
+      },
+      {
+        "keyName": "16x40+16x120_BTBM_C/M",
+        "size": "16x160"
+      },
+      {
+        "keyName": "16x40+16x140_BTBM_C/M",
+        "size": "16x180"
+      },
+      {
+        "keyName": "24x40+24x120_BTBM_C/M",
+        "size": "24x160"
+      },
+      {
+        "keyName": "24x40+24x140_BTBM_C/M",
+        "size": "24x180"
+      },
+      {
+        "keyName": "24x40+24x200_BTBM_C/M",
+        "size": "24x240"
+      },
+      {
+        "keyName": "24x40+24x160_BTBM_C/M",
+        "size": "24x200"
+      }
+    ]
+  },
+  {
+    "familyname": "Route number SLP4xxx bi-mode colour/monochromic LED",
+    "sizes": [
+      {
+        "keyName": "16x40+16x080_BTBM_C/M",
+        "size": "16x40"
+      },
+      {
+        "keyName": "16x40+16x120_BTBM_C/M",
+        "size": "16x40"
+      },
+      {
+        "keyName": "16x40+16x140_BTBM_C/M",
+        "size": "16x40"
+      },
+      {
+        "keyName": "24x40+24x120_BTBM_C/M",
+        "size": "24x40"
+      },
+      {
+        "keyName": "24x40+24x140_BTBM_C/M",
+        "size": "24x40"
+      },
+      {
+        "keyName": "24x40+24x200_BTBM_C/M",
+        "size": "24x40"
+      },
+      {
+        "keyName": "24x40+24x160_BTBM_C/M",
+        "size": "24x40"
+      }
+    ]
+  },
+  {
+    "familyname": "20x32+20x064 SLP4xxx bi-mode red/amber LED",
+    "sizes": [
+      {
+        "keyName": "20x32+20x128_BTBM_R/A",
+        "size": "20x160"
+      }
+    ]
+  },
+  {
+    "familyname": "Route number 20x32+20x064 SLP4xxx bi-mode red/amber LED",
+    "sizes": [
+      {
+        "keyName": "20x32+20x128_BTBM_R/A",
+        "size": "20x32"
+      }
+    ]
+  },
+  {
+    "familyname": "20x32+20x128 SLP4xxx bi-mode red/amber LED",
+    "sizes": [
+      {
+        "keyName": "20x32+20x064_BTBM_R/A",
+        "size": "20x96"
+      }
+    ]
+  },
+  {
+    "familyname": "Route number 20x32+20x128 SLP4xxx bi-mode red/amber LED",
+    "sizes": [
+      {
+        "keyName": "20x32+20x064_BTBM_R/A",
+        "size": "20x32"
+      }
+    ]
+  },
+  {
+    "familyname": "SLP4xxx bi-mode LED",
+    "sizes": [
+      {
+        "keyName": "36x48+32x168_NSN_BT",
+        "size": "36x216"
+      },
+      {
+        "keyName": "24x40+24x80_BT",
+        "size": "24x120"
+      }
+    ]
+  },
+  {
+    "familyname": "Route number SLP4xxx bi-mode LED",
+    "sizes": [
+      {
+        "keyName": "36x48+32x168_NSN_BT",
+        "size": "36x48"
+      },
+      {
+        "keyName": "24x40+24x80_BT",
+        "size": "24x40"
+      }
+    ]
+  },
+  {
+    "familyname": "36x48+32x162-SN(32x6) SLP4xxx bi-mode LED",
+    "sizes": [
+      {
+        "keyName": "36x48+32x168_BT",
+        "size": "36x216"
+      }
+    ]
+  },
+  {
+    "familyname": "Route number 36x48+32x162-SN(32x6) SLP4xxx bi-mode LED",
+    "sizes": [
+      {
+        "keyName": "36x48+32x168_BT",
+        "size": "36x48"
+      }
+    ]
+  }
+]
