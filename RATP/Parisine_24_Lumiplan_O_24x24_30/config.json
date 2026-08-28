@@ -1,5 +1,22 @@
-{
-  "font_name": "Parisine 24 - O",
+[
+  {
+  "font_name": "Parisine 24 - O 24x24",
   "space_pixels": 4,
   "inter_char_space_pixels": 2
-}
+  },
+  {
+  "font_name": "Parisine 24 Var1 - O 24x24",
+  "space_pixels": 6,
+  "inter_char_space_pixels": 1
+  },
+  {
+  "font_name": "Parisine 24 DestVar1 - O 24x24",
+  "space_pixels": 4,
+  "inter_char_space_pixels": 5
+  },
+  {
+  "font_name": "Parisine 24 DestVar2 - O 24x24",
+  "space_pixels": 4,
+  "inter_char_space_pixels": 3
+  }
+]
